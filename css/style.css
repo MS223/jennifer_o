@@ -1,0 +1,89 @@
+@import url(http://fonts.googleapis.com/css?family=Julius+Sans+One);
+#title {
+  padding-top: 50px;
+    padding-right: 100px;
+    padding-bottom: 50px;
+    padding-left: 100px;
+   border-style: outset;
+    border-color: #FFCCCC;
+   text-align: center;
+  border-width: 10px;
+  box-sizing: border-box;
+    width: 105%;
+  font-family:julius sans one;
+  font-size:600%
+ 
+ }
+
+#title {
+  background-color:#FFCCCC
+
+}
+
+ @import url(http://fonts.googleapis.com/css?family=Chewy); 
+
+#one {
+color:black;
+}
+.listtitle {
+     width: 200px;
+    padding: 5px;
+    margin: 25px;
+   left: -20px;
+  font-size: 400%;
+  border-width: 10px;
+  box-sizing: border-box;
+    width: 50%;
+ 
+} 
+ 
+
+  
+ {
+  width: 100%;
+    padding: 5px;
+    border: 5px solid navy;
+    margin: 25px;
+  
+}
+
+
+   
+}
+
+#three{
+     width: 100%;
+    padding: 5px;
+   
+   
+ }
+
+.list {
+     width: 100%;
+    padding: 5px;
+    border: 5px solid navy; border-color: #CC99FF #CC99FF;
+    margin: 25px;
+  
+}
+
+
+@import url(http://fonts.googleapis.com/css?family=Pompiere);
+
+ li {
+   color:purple;
+   font-size: 120%;
+   font-family:Pompiere;
+ }
+
+@import url(http://fonts.googleapis.com/css?family=Poiret+One);
+
+p {
+  width: 300px;
+    padding: 5px;
+    border: 5px solid navy; border-color: #99CCFF #99CCFF;
+    margin: 5px;
+  font-family:poiret one;
+}
+
+
+
